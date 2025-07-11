@@ -95,4 +95,14 @@ Test your endpoints in your browser or with curl:
 
 - [Get owner(s) of account 800](http://127.0.0.1:5000/getOwner?aid=800)
 - [Get holdings for account 150, symbol AAPL](http://127.0.0.1:5000/getHoldings?aid=150&sym=AAPL)
-- [Attempt trade (buy/sell)](http://127.0.0.1:5000/trade?aid=300&sym=GOOGL&type=buy&shares=100.00&price=99.99)
+- [Attempt trade (buy/sell)](http://127.0.0.1:5000/trade?aid=300&sym=GOOGL&type=buy&shares=100.00&price=99.99)# 👨‍💻 Author
+
+Utsav Patel
+
+Email:usp@sfu.ca
+
+Simon Fraser University
+# License
+
+This project is open for educational and demonstration purposes. Attribution is appreciated!
+<p align="center"> <b>🌟 If you like this project, please star the repo! 🌟</b> </p> 
