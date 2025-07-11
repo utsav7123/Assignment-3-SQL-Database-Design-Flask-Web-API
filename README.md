@@ -102,6 +102,10 @@ Utsav Patel
 Email:usp@sfu.ca
 
 Simon Fraser University
+## Credits
+
+This project is adapted from the CMPT 354 (Database Systems I ) assignment at Simon Fraser University, Summer 2025.
+Code structure and assignment specification provided by course instructors.
 # License
 
 This project is open for educational and demonstration purposes. Attribution is appreciated!
